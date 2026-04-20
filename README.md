@@ -2,9 +2,7 @@
 <h3 align="center">💻 Web Developer | ⚙️ Backend Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanjeebdas1979&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -39,31 +37,31 @@
 ## 📂 Projects
 
 🔹 **Project Name 1**  
-➡️ Short description of what it does  
-🔗 https://github.com/YOUR_USERNAME/project1  
+➡️ Short description  
+🔗 https://github.com/sanjeebdas1979/project1  
 
 🔹 **Project Name 2**  
 ➡️ Short description  
-🔗 https://github.com/YOUR_USERNAME/project2  
+🔗 https://github.com/sanjeebdas1979/project2  
 
 🔹 **Project Name 3**  
 ➡️ Short description  
-🔗 https://github.com/YOUR_USERNAME/project3  
+🔗 https://github.com/sanjeebdas1979/project3  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeebdas1979&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeebdas1979&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeebdas1979&layout=compact&theme=tokyonight" />
 </p>
 
 ---
